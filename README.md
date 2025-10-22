@@ -1,2 +1,2 @@
 # first-commit
-The first nft collection
+My first GitHub commit 🚀
